@@ -63,6 +63,8 @@ Este é um projeto que implementa um sistema de gerenciamento para uma clínica 
    `npm -v` para verificar a versão do npm (gerenciador de pacotes do Node.js).
    
    `psql --version` para verificar a versão do PostgreSQL.
+   
+---
 
 ## Configurações
 
@@ -87,6 +89,8 @@ Este é um projeto que implementa um sistema de gerenciamento para uma clínica 
 
    ```bash
    npm install
+   
+---
 
 ## Execução do Backend
 
@@ -103,3 +107,11 @@ Este é um projeto que implementa um sistema de gerenciamento para uma clínica 
 
    ```bash
    npm run start
+
+---
+
+## Conclusão 
+
+O projeto "Vital Care" apresenta uma abordagem completa para o desenvolvimento de uma aplicação Web para uma clínica médica, incluindo instruções detalhadas desde a instalação das ferramentas necessárias até a execução do sistema. A escolha de tecnologias modernas, a separação clara entre o backend e frontend, e a hospedagem na nuvem demonstram um comprometimento com as melhores práticas de desenvolvimento.
+
+Além disso, a documentação fornece uma base sólida para a continuidade do desenvolvimento, manutenção e escalabilidade do sistema. No geral, o projeto reflete uma compreensão sólida dos conceitos de Engenharia de Software e demonstra a capacidade do grupo em aplicar esses conhecimentos de forma prática.
