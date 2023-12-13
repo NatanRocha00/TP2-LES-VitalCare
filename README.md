@@ -1,4 +1,4 @@
-# Trabalho 2 – Laboratório de Engenharia de Software I - CEFET-MG
+# Trabalho Prático 2 – Laboratório de Engenharia de Software I - CEFET-MG
 Neste projeto prático, nosso grupo desenvolveu uma aplicação Web para uma Clínica Médica.
 
 ## Integrantes
